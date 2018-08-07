@@ -14,6 +14,7 @@ import com.pluralsight.jacket.entry.data.models.Entry;
 import com.pluralsight.jacket.entry.repository.EntryRepository;
 import com.pluralsight.jacket.entry.service.models.JacketEntry;
 // change for feature 1
+// change added by rachael
 @Named
 @Transactional(readOnly = true)
 public class EntryRepositoryEntryDetailsService implements JacketEntryService {
