@@ -13,3 +13,5 @@ public interface JacketEntryService {
     JacketEntry getEntry(long id);
     void updateEntry(JacketEntry entry);
 }
+
+//change for feature 1
